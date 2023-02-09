@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tommerty&label=Profile%20views&color=0e75b6&style=flat" alt="tommerty" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trent-gezel&label=Profile%20views&color=0e75b6&style=flat" alt="trent" /> </p>
 <h1 align="center">Hi 👋, I'm Trent</h1>
 <h3 align="center">Passionate about Tailwind, Docker, and backend development</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trent-gezel&" alt="trent" /></p>
