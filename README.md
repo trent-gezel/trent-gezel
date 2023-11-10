@@ -3,13 +3,11 @@
 <h3 align="center">Passionate about Tailwind, Docker, and backend development</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trent-gezel&" alt="trent" /></p>
 <div align="center">
-👯 I’m working on [Gezel.io](https://github.com/gezelio)
+👯 I’m working on [Gezel.io](https://github.com/gezelio) and [Doras.to](https://github.com/doras-to)
 
 👨‍💻 All of my socials are available at [https://trent.mystl.ink](https://trent.mystl.ink)
 
 💬 Ask me about **Tailwind, CSS, HTML, Js**
-
-⚡ Fun fact **I never thought I'd end up in tech as I studied to be a sound engineer**
 
 <h3 align="left">Support:</h3>
 
