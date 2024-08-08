@@ -5,7 +5,7 @@
 <div align="center">
 👯 I’m working on [Doras.to](https://github.com/dorasto)
 
-👨‍💻 All of my socials are available at [[https://trent.mystl.ink](https://doras.to/trent)](https://doras.to/trent)
+👨‍💻 All of my socials are available at [https://doras.to/trent](https://doras.to/trent)
 
 💬 Ask me about **Tailwind, CSS, HTML, Js**
 
