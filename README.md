@@ -3,9 +3,9 @@
 <h3 align="center">Passionate about Tailwind, Docker, and backend development</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trent-gezel&" alt="trent" /></p>
 <div align="center">
-👯 I’m working on [Doras.to](https://github.com/doras-to)
+👯 I’m working on [Doras.to](https://github.com/dorasto)
 
-👨‍💻 All of my socials are available at [https://trent.mystl.ink](https://trent.mystl.ink)
+👨‍💻 All of my socials are available at [[https://trent.mystl.ink](https://doras.to/trent)](https://doras.to/trent)
 
 💬 Ask me about **Tailwind, CSS, HTML, Js**
 
